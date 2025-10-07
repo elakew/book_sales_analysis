@@ -1,5 +1,5 @@
 ### Book Sales - Publisher Revenue
-In this project, we explore book sales data to uncover actionable insights for publishers, namely publishing agents, financiers, and strategists. This exploratory data analysis (EDA) in SQLite and Python primarily focuses on publisher revenue and identifies the primary sources of revenue. 
+In this project, we uncover high-level and granular insights for publishers, namely publishing agents, financiers, and strategists. This exploratory data analysis (EDA) in SQLite and Python focuses on publisher revenue and identifies the primary sources of revenue. 
 
 #### Key Insights
 * Top publishers, tight market: The top five publishers - Penguin Group and Random House followed by Amazon Digital, Hachette, and HarperCollins - lead in revenue and are tightly grouped together by narrow margins. 
