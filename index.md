@@ -4,6 +4,6 @@ Book Sales - Publisher Revenue
 
 This dashboard visualizes a comparative analysis of publishers and drills down to the primary sources of publisher revenue. 
 
-[Jupyter Notebook on Github]()
+[Jupyter Notebook on Github](https://github.com/elakew/book_sales_analysis/blob/main/Book%20Sales%20Analysis_SQL.ipynb)
 
 The Python and SQL exploratory data analysis (EDA) demonstrates my process and thinking towards the featured insights and offers additional points of analysis for stakeholders in RevOps, product, and/or marketing.
