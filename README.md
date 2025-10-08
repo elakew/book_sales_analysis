@@ -15,8 +15,8 @@ This dashboard visualizes a comparative analysis of publishers and granular pres
 The Python and SQL exploratory data analysis (EDA) demonstrates the ETL process that led to the featured insights and offers additional points of analysis for stakeholders in RevOps, product, and/or marketing.
 
 #### Considerations and Next Steps
-* The units sold for a certain books and publishers, particularly for Amazon Digital, are very high (10K+) but the gross sales and publisher revenue are relatively low. A number of these books are likely available as a part of the Amazon Prime membership and users selecting or accessing these books is being logged as units sold.
-* The original dataset does not include dates beyond the publishing year of the books. For further analysis, particularly time-series analysis and predictive models, it would be necessary and beneficial to integrate datasets with temporal sales transactions.
+* The units sold for certain books and publishers, particularly Amazon Digital, are very high (10K+) but the gross sales and publisher revenue are relatively low. A number of these books are likely available as Kindle/Kindle Unlimited products as a part of the Amazon Prime membership; books that are selected and accessed by users through their Amazon account may be logged as units sold.
+* The original dataset does not include dates beyond the publishing year of the books. For further analysis, particularly time-series and predictive models, it would be necessary and beneficial to integrate datasets with temporal sales transactions.
 
 [Original dataset](https://www.kaggle.com/datasets/thedevastator/books-sales-and-ratings)
 
