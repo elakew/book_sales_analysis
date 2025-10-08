@@ -1,10 +1,10 @@
 ### Book Sales - Publisher Revenue
-In this project, we uncover high-level and granular insights for publishers, namely publishing agents, financiers, and strategists. This exploratory data analysis (EDA) in SQLite and Python focuses on publisher revenue and identifies the primary sources of revenue. 
+In this project, we uncover high-level and granular insights that will inform the strategic decisions of publishers, namely publishing agents, financiers, and strategists. This exploratory data analysis (EDA) in SQLite and Python focuses on the primary sources and topical trends of publisher revenue.
 
 #### Key Insights
 * Top publishers, tight market: The five leading publishers - Penguin Group and Random House followed by Amazon Digital, Hachette, and HarperCollins - are tightly grouped together by narrow margins. 
 * Genre performance: Fiction has a significant (10x) lead over non-fiction. Children's books has a tiny share of publisher revenue, but at times the highest revenue percentages (60-62%).
-* Publishing year peaks: Books published between approximately 2009 - 2012 yielded the highest volume of units sold but relatively low and erratic revenue percentages (~28-53%).
+* Publishing year peaks: Books published between approximately 2009 - 2012 yield the highest volume of units sold but relatively low and erratic revenue percentages (~28-53%).
 
 [Tableau Dashboard](https://elakew.github.io/book_sales_analysis/)
 
